@@ -16,6 +16,6 @@ Feel free to explore the projects and provide feedback or suggestions. Contribut
 Contact
 You can connect with me via:
 
-Email: maryam.shabbir@example.com
-LinkedIn: Maryam Shabbir
+Email: maryamshabbirahmed@gmail.com
+LinkedIn: [Maryam Shabbir](https://www.linkedin.com/in/maryam-shabbir-6598bb249/)
 Thank you for visiting my repository! Happy coding! 🚀
